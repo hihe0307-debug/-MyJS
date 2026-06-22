@@ -1,0 +1,81 @@
+body {
+
+  font-family: Arial, sans-serif;
+
+  background: #f4f8ff;
+
+  padding: 20px;
+
+}
+
+
+
+header {
+
+  background: #2563eb;
+
+  color: white;
+
+  padding: 20px;
+
+}
+
+
+
+nav a {
+
+  color: white;
+
+  margin-right: 15px;
+
+}
+
+
+
+section {
+
+  background: white;
+
+  margin-top: 20px;
+
+  padding: 20px;
+
+  border-radius: 10px;
+
+}
+
+
+
+button {
+
+  background: #2563eb;
+
+  color: white;
+
+  border: none;
+
+  padding: 10px;
+
+  cursor: pointer;
+
+}
+
+
+
+input {
+
+  display: block;
+
+  margin: 10px 0;
+
+  padding: 10px;
+
+}
+
+
+
+.hidden {
+
+  display: none;
+
+}
